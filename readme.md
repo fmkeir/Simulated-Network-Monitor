@@ -1,4 +1,4 @@
-[See the Dashboard in action](https://network-dashboard.fraserkeir.app/) | [Front-end Repo](https://github.com/fmkeir/NetworkingPanel)
+[See the Dashboard in action](https://network-dashboard.fraserkeir.com/) | [Front-end Repo](https://github.com/fmkeir/NetworkingPanel)
 
 This project was built as our final project for CodeClan's professional software development course. Version 1 was completed in the first 5 day sprint, we then continued to develop the project after the course finished. It functions as a Networking panel, and is also available for use as a websocket API with updating network data.
 
